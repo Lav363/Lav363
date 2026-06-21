@@ -180,8 +180,7 @@ Computer Science and Engineering student at **KGiSL Institute of Technology** wi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lav363&layout=compact&theme=tokyonight&border_radius=10" alt="Lavanya's Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Lav363&theme=onedark&column=3" alt="Lavanya's Trophies" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lav363&layout=compact&theme=tokyonight&border_radius=10" alt="Lavanya's Top Languages" width="60%" />
 </p>
 
 <p align="center">
