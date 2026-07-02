@@ -86,7 +86,7 @@ Computer Science and Engineering student at **KGiSL Institute of Technology** sp
         <li>Automates rosters, leave workflows, and workloads with JWT role authentication.</li>
       </ul>
       <p>
-        <a href="https://github.com/Lav363/nursing-allocation-system" target="_blank" rel="noopener noreferrer"><b>🖥️ Repository</b></a>
+        <a href="https://github.com/Lav363/nursing-allocation-management-system" target="_blank" rel="noopener noreferrer"><b>🖥️ Repository</b></a>
       </p>
     </td>
     <!-- Project 2 -->
