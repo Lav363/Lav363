@@ -202,6 +202,13 @@ Computer Science and Engineering student at **KGiSL Institute of Technology** sp
 ## 🚀 Coding Activity (WakaTime)
 <!-- The WakaTime Github Action updates this section automatically. Requires WAKATIME_API_KEY repository secret. -->
 <!--START_SECTION:waka-->
+
+```txt
+From: 25 June 2026 - To: 02 July 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
